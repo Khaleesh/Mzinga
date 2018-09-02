@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		update.xml = update.xml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mzinga.MCTS", "Mzinga.MCTS\Mzinga.MCTS\Mzinga.MCTS.csproj", "{3710171B-F793-4399-A319-F106CD6A1A3E}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Mzinga.Shared\Mzinga.Shared.projitems*{3a664979-a4db-4c05-bd8f-c6a1799624df}*SharedItemsImports = 13
@@ -99,6 +101,18 @@ Global
 		{9824E8FD-6155-4C02-A3A4-5D39355F01FE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{9824E8FD-6155-4C02-A3A4-5D39355F01FE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{9824E8FD-6155-4C02-A3A4-5D39355F01FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Debug|x86.Build.0 = Debug|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Release|x86.ActiveCfg = Release|Any CPU
+		{3710171B-F793-4399-A319-F106CD6A1A3E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
